@@ -1,0 +1,193 @@
+{
+   "subject":"Startup Details",
+   "columns":[
+      {
+         "key":"Amount",
+         "full_name":"Amount",
+         "type":"numeric",
+         "is_objective":true,
+         "goal":"max"
+      },
+      {
+         "key":"Investors count",
+         "full_name":"Investors count",
+         "type":"numeric",
+         "is_objective":true,
+         "goal":"max"
+      },
+      {
+         "key":"Assets",
+         "full_name":"Assets",
+         "type":"numeric",
+         "is_objective":true,
+         "goal":"max"
+      },
+      {
+         "key":"StockValue",
+         "full_name":"StockValue",
+         "type":"numeric",
+         "is_objective":true,
+         "goal":"max"
+      },
+      {
+         "key":"Unit Price",
+         "full_name":"Unit Price",
+         "type":"numeric",
+         "is_objective":true,
+         "goal":"min"
+      }
+   ],
+   "options":[
+      {
+         "key":"0",
+         "name":"Mad Street Den",
+         "values":{
+            "Amount":12985,
+            "Investors count":4,
+            "Assets":213954,
+            "StockValue":32567,
+            "Unit Price":445.67
+         },
+         "app_data":{
+
+         }
+      },
+      {
+         "key":"1",
+         "name":"Mihup",
+         "values":{
+            "Amount":43567,
+            "Investors count":5,
+            "Assets":3463,
+            "StockValue":345789,
+            "Unit Price":654.54
+         },
+         "app_data":{
+
+         }
+      },
+      {
+         "key":"2",
+         "name":"Renowala",
+         "values":{
+            "Amount":5432,
+            "Investors count":2,
+            "Assets":346,
+            "StockValue":3457,
+            "Unit Price":901.24
+         },
+         "app_data":{
+
+         }
+      },
+      {
+         "key":"3",
+         "name":"Lucideus",
+         "values":{
+            "Amount":5432,
+            "Investors count":5,
+            "Assets":543,
+            "StockValue":543.32,
+            "Unit Price":25678.9
+         },
+         "app_data":{
+
+         }
+      },
+      {
+         "key":"4",
+         "name":"Trackbizz",
+         "values":{
+            "Amount":5432,
+            "Investors count":4,
+            "Assets":431,
+            "StockValue":4356,
+            "Unit Price":334.65
+         },
+         "app_data":{
+
+         }
+      },
+      {
+         "key":"5",
+         "name":"Social Quotient",
+         "values":{
+            "Amount":5431,
+            "Investors count":5,
+            "Assets":531,
+            "StockValue":5483,
+            "Unit Price":401.25
+         },
+         "app_data":{
+
+         }
+      },
+      {
+         "key":"6",
+         "name":"Stalk Buy Love",
+         "values":{
+            "Amount":2965443,
+            "Investors count":25,
+            "Assets":456789,
+            "StockValue":43567,
+            "Unit Price":378.54
+         },
+         "app_data":{
+
+         }
+      },
+      {
+         "key":"7",
+         "name":"eShakthi",
+         "values":{
+            "Amount":29645,
+            "Investors count":3,
+            "Assets":5432,
+            "StockValue":548754,
+            "Unit Price":5470.54
+         },
+         "app_data":{
+
+         }
+      },
+      {
+         "key":"8",
+         "name":"CheersOye",
+         "values":{
+            "Amount":65432,
+            "Investors count":65,
+            "Assets":5432,
+            "StockValue":548,
+            "Unit Price":127.65
+         },
+         "app_data":{
+
+         }
+      },
+      {
+         "key":"9",
+         "name":"Lens Kart",
+         "values":{
+            "Amount":6543,
+            "Investors count":5,
+            "Assets":54312,
+            "StockValue":546,
+            "Unit Price":224.76
+         },
+         "app_data":{
+
+         }
+      },
+      {
+         "key":"10",
+         "name":"Lens Kart",
+         "values":{
+            "Amount":6532,
+            "Investors count":8,
+            "Assets":43678,
+            "StockValue":5500,
+            "Unit Price":4505.54
+         }
+      }
+   ]
+}
